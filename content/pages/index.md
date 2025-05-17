@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 50+ Prototypes Built
-        subtitle: Software MVP development
+        subtitle: Prototypes Built
         text: |
           Software MVP development
         actions: []
