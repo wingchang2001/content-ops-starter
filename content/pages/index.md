@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'From Sketch to Scale: Prototyping + Marketing, Fueled for Launch"'
+      text: 'From Sketch to Scale: Prototyping + Marketing, Fueled for Launch'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
