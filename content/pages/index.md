@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 50+ Prototypes Built
-        subtitle: Numbers Done
+        subtitle: Software MVP development
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
