@@ -64,10 +64,8 @@ sections:
       - type: FeaturedItem
         title: 50+ Prototypes Built
         subtitle: Software MVP development
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Software MVP development
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
