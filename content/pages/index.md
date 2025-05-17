@@ -7,7 +7,7 @@ sections:
       text: 'From Sketch to Scale: Prototyping + Marketing, Fueled for Launch'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Turn ideas into market-ready products with speed and creativity
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
