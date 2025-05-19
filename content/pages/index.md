@@ -89,7 +89,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: UI/UX That Clicks
       color: text-dark
     subtitle: Increase your reach
     text: >
