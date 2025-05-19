@@ -738,7 +738,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: 'BananaRocketLab – MVP Prototypes, UX, & Viral Marketing in One Place'
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Bring your boldest ideas to life—fast. BananaRocketLab helps you prototype,
+    design, and launch with speed, style, and a splash of fun.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
