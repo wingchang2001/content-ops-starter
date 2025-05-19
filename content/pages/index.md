@@ -7,7 +7,10 @@ sections:
       text: Big Ideas Deserve a Wild Launch
       color: text-dark
       type: TitleBlock
-    subtitle: Turn ideas into market-ready products with speed and creativity
+    subtitle: >-
+      From sketch to prototype to viral launch, BananaRocketLab is your one-stop
+      innovation lab. We make building bold ideas fast, fun, and wildly
+      effective.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
