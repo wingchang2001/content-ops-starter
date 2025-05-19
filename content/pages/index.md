@@ -4,24 +4,18 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'From Sketch to Scale: Prototyping + Marketing, Fueled for Launch'
+      text: Big Ideas Deserve a Wild Launch
       color: text-dark
       type: TitleBlock
-    subtitle: Turn ideas into market-ready products with speed and creativity
+    subtitle: >-
+      From sketch to prototype to viral launch, BananaRocketLab is your one-stop
+      innovation lab. We make building bold ideas fast, fun, and wildly
+      effective.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
@@ -31,15 +25,20 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       url: /images/freshly-baked-bread-isolated.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -738,9 +737,11 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: 'BananaRocketLab – MVP Prototypes, UX, & Viral Marketing in One Place'
+  metaDescription: >-
+    Bring your boldest ideas to life—fast. BananaRocketLab helps you prototype,
+    design, and launch with speed, style, and a splash of fun.
+  socialImage: /images/logo_banana01_small.png
   type: Seo
 type: PageLayout
 ---
