@@ -47,11 +47,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: '"Fail fast, learn faster."'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We turn your napkin doodles into testable prototypes in days, not months.
+      No fluff, no delays—just the core features that prove your idea works (or
+      doesn't) before you go all in.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
