@@ -133,7 +133,7 @@ sections:
       type: TitleBlock
       text: Social Media Rocket Fuel
       color: text-dark
-    subtitle: Be in good company
+    subtitle: '"From zero to buzz."'
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
