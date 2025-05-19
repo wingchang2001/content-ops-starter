@@ -53,7 +53,7 @@ sections:
       doesn't) before you go all in.
     media:
       title: Title of the video
-      url: /images/video_Invision_reduced.mp4
+      url: 'https://youtu.be/2VqtHU5CErA'
       controls: false
       aspectRatio: '16:9'
       styles:
