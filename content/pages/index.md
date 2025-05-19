@@ -88,7 +88,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: UI/UX That Clicks
       color: text-dark
       styles:
         self:
