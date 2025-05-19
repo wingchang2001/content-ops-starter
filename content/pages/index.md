@@ -135,8 +135,9 @@ sections:
       color: text-dark
     subtitle: '"From zero to buzz."'
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      No more shouting into the void. We craft scroll-stopping content and run
+      razor-sharp campaigns that attract real users—fast. Perfect for testing
+      demand or hyping a launch.
     actions:
       - type: Button
         label: Get started
