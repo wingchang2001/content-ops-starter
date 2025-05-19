@@ -2,6 +2,51 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Big Ideas Deserve a Wild Launch
+      color: text-dark
+      type: TitleBlock
+    subtitle: >-
+      From sketch to prototype to viral launch, BananaRocketLab is your one-stop
+      innovation lab. We make building bold ideas fast, fun, and wildly
+      effective.
+    text: ''
+    actions:
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+    media:
+      url: /images/freshly-baked-bread-isolated.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -113,51 +158,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Big Ideas Deserve a Wild Launch
-      color: text-dark
-      type: TitleBlock
-    subtitle: >-
-      From sketch to prototype to viral launch, BananaRocketLab is your one-stop
-      innovation lab. We make building bold ideas fast, fun, and wildly
-      effective.
-    text: ''
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    media:
-      url: /images/freshly-baked-bread-isolated.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
