@@ -11,10 +11,7 @@ sections:
       From sketch to prototype to viral launch, BananaRocketLab is your one-stop
       innovation lab. We make building bold ideas fast, fun, and wildly
       effective.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: ''
     actions:
       - label: See Tutorials
         altText: ''
