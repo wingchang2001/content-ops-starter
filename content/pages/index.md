@@ -138,14 +138,7 @@ sections:
       No more shouting into the void. We craft scroll-stopping content and run
       razor-sharp campaigns that attract real users—fast. Perfect for testing
       demand or hyping a launch.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
