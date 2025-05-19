@@ -95,11 +95,10 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: '"Where first impressions stick."'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Design isn’t just decoration—it’s the difference between ‘meh’ and ‘WOW.’
+      We create delightful, intuitive interfaces that users love from the first
+      click.
     actions: []
     media:
       title: Title of the video
