@@ -88,48 +88,6 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: UI/UX That Clicks
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: '"Where first impressions stick."'
-    text: >
-      Design isn’t just decoration—it’s the difference between ‘meh’ and ‘WOW.’
-      We create delightful, intuitive interfaces that users love from the first
-      click.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
       type: TitleBlock
       text: Social Media Rocket Fuel
       color: text-dark
