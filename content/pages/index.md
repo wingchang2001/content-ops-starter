@@ -93,8 +93,9 @@ sections:
       color: text-dark
     subtitle: '"Where first impressions stick."'
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Design isn’t just decoration—it’s the difference between ‘meh’ and ‘WOW.’
+      We create delightful, intuitive interfaces that users love from the first
+      click.
     actions:
       - type: Button
         label: Get started
