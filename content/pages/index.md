@@ -96,14 +96,7 @@ sections:
       Design isn’t just decoration—it’s the difference between ‘meh’ and ‘WOW.’
       We create delightful, intuitive interfaces that users love from the first
       click.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
