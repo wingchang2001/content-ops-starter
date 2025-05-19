@@ -72,7 +72,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Key SERvICEs
       color: text-primary
       styles:
         self:
