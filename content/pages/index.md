@@ -164,26 +164,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - title:
-      text: Social Media Rocket Fuel
-      color: text-dark
-      type: TitleBlock
-    subtitle: '"From zero to buzz."'
-    text: >
-
-      No more shouting into the void. We craft scroll-stopping content and run
-      razor-sharp campaigns that attract real users—fast. Perfect for testing
-      demand or hyping a launch.
-    actions: []
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
