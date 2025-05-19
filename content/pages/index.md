@@ -91,7 +91,7 @@ sections:
       type: TitleBlock
       text: UI/UX That Clicks
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: '"Where first impressions stick."'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
