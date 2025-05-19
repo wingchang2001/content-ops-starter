@@ -741,7 +741,7 @@ seo:
   metaDescription: >-
     Bring your boldest ideas to life—fast. BananaRocketLab helps you prototype,
     design, and launch with speed, style, and a splash of fun.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/logo_banana01_small.png
   type: Seo
 type: PageLayout
 ---
