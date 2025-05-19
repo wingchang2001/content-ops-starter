@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'From Sketch to Scale: Prototyping + Marketing, Fueled for Launch'
+      text: Big Ideas Deserve a Wild Launch
       color: text-dark
       type: TitleBlock
     subtitle: Turn ideas into market-ready products with speed and creativity
