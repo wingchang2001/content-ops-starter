@@ -97,12 +97,6 @@ sections:
       We create delightful, intuitive interfaces that users love from the first
       click.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
