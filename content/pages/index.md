@@ -14,7 +14,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/paper to rocket.png
+      url: /images/paper to rocket_white.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
