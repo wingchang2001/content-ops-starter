@@ -140,11 +140,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Got questions? Ideas? Napkin sketches? We’re all ears (and bananas).
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Whether you're dreaming up the next big thing or need help bringing it to
+      life, our team’s ready to jump in. Drop us a message and we’ll get back
+      faster than a banana rocket in turbo mode.
+
+
+
+      **No jargon. No pressure. Just real humans who love bold ideas.**
+
     media:
       fields:
         - name: name
