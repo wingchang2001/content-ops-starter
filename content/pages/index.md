@@ -737,7 +737,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: 'BananaRocketLab – MVP Prototypes, UX, & Viral Marketing in One Place'
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
