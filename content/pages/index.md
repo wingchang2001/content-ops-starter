@@ -139,7 +139,7 @@ sections:
       text: Let's Launch Something Great Together
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Got questions? Ideas? Napkin sketches? We’re all ears (and bananas).
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
