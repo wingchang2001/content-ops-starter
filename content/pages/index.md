@@ -139,12 +139,6 @@ sections:
       razor-sharp campaigns that attract real users—fast. Perfect for testing
       demand or hyping a launch.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
