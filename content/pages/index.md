@@ -13,15 +13,6 @@ sections:
       effective.
     text: ''
     actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: Get started
         altText: ''
         url: /
