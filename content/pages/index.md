@@ -14,7 +14,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/freshly-baked-bread-isolated.jpg
+      url: /images/paper to rocket.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
