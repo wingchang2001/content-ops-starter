@@ -134,8 +134,10 @@ sections:
       type: TitleBlock
     subtitle: '"From zero to buzz."'
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+
+      No more shouting into the void. We craft scroll-stopping content and run
+      razor-sharp campaigns that attract real users—fast. Perfect for testing
+      demand or hyping a launch.
     actions:
       - label: Get started
         url: /
