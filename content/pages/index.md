@@ -89,7 +89,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: UI/UX That Clicks
+      text: User Experience That Clicks
       color: text-dark
     subtitle: '"Where first impressions stick."'
     text: >
