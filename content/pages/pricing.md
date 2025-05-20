@@ -62,7 +62,7 @@ sections:
         type: PricingPlan
       - title: BLAST OFF
         price: Custom
-        details: per month
+        details: per project
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
