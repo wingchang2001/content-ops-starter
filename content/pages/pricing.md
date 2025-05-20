@@ -73,6 +73,7 @@ sections:
         image:
           altText: Pricing plan 3
           type: ImageBlock
+          url: /images/pricing_blastv2.png
         actions: []
         colors: bg-neutral-fg-dark
         styles:
