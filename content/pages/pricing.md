@@ -42,7 +42,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: BLOOM
-        price: $99
+        price: '$6,900'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
