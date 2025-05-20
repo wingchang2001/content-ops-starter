@@ -50,7 +50,7 @@ sections:
           - Everything in SPROUT
           - Custom UI/UX design (Figma/Adobe XD)
           - Mobile/desktop responsiveness
-          - Feature four
+          - 1 animated prototype demo (Lottie)
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
