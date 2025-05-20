@@ -47,7 +47,7 @@ sections:
         description: |
           For Ready-to-test products (MVP + UI/UX)
         features:
-          - Feature one
+          - Everything in SPROUT
           - Feature two
           - Feature three
           - Feature four
