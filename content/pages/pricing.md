@@ -63,9 +63,8 @@ sections:
       - title: BLAST OFF
         price: Custom
         details: per project
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          For Launch-ready products (Full Suite: MVP + UI/UX + Social)
         features:
           - Feature one
           - Feature two
