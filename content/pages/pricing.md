@@ -68,7 +68,7 @@ sections:
         features:
           - Everything in BLOOM
           - 30-day social media campaign (3 platforms)
-          - Feature three
+          - 3 viral-worthy videos (TikTok/Reels/Shorts)
           - Feature four
           - Feature five
         image:
