@@ -14,9 +14,11 @@ sections:
       - title: SPROUT
         price: '$2,500'
         details: per project
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          Idea validation
+
+
+
         features:
           - Feature one
           - Feature two
