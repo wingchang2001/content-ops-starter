@@ -71,7 +71,6 @@ sections:
           - 3 viral-worthy videos (TikTok/Reels/Shorts)
           - Hashtag strategy + influencer outreach list
         image:
-          url: /images/pricing_blast.png
           altText: Pricing plan 3
           type: ImageBlock
         actions: []
