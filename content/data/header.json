@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Case Studies",
             "altText": "",
             "url": "/Case Studies",
             "showIcon": false,
