@@ -19,7 +19,6 @@ sections:
         features:
           - 1 functional prototype (3D-printed or no-code digital)
           - 2 rounds of minor revisions
-          - Feature three
           - Feature four
         image:
           url: /images/abstract-feature1.svg
