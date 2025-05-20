@@ -48,7 +48,7 @@ sections:
           For Ready-to-test products (MVP + UI/UX)
         features:
           - Everything in SPROUT
-          - Feature two
+          - Custom UI/UX design (Figma/Adobe XD)
           - Feature three
           - Feature four
         image:
