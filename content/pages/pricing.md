@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: SPROUT
-        price: Free
+        price: '$2,500'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
