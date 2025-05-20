@@ -18,7 +18,7 @@ sections:
           For Idea validation
         features:
           - 1 functional prototype (3D-printed or no-code digital)
-          - Basic user testing with 5 target customers
+          - 2 rounds of minor revisions
           - Feature three
           - Feature four
         image:
