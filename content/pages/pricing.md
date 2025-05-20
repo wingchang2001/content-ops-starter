@@ -49,7 +49,7 @@ sections:
         features:
           - Everything in SPROUT
           - Custom UI/UX design (Figma/Adobe XD)
-          - Feature three
+          - Mobile/desktop responsiveness
           - Feature four
         image:
           url: /images/abstract-feature2.svg
