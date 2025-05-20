@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Find the one that suits you and launch now!
     plans:
       - title: SPROUT
         price: '$2,500'
