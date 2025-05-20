@@ -44,9 +44,8 @@ sections:
       - title: BLOOM
         price: '$6,900'
         details: per project
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          For Ready-to-test products (MVP + UI/UX)
         features:
           - Feature one
           - Feature two
