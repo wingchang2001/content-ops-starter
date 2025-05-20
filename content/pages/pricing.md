@@ -61,7 +61,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: BLAST OFF
-        price: Custom
+        price: '$12,500'
         details: per project
         description: |
           For Launch-ready products (Full Suite: MVP + UI/UX + Social)
