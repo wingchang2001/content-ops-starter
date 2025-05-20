@@ -70,7 +70,6 @@ sections:
           - 30-day social media campaign (3 platforms)
           - 3 viral-worthy videos (TikTok/Reels/Shorts)
           - Hashtag strategy + influencer outreach list
-          - Feature five
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
