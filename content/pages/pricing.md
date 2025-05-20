@@ -67,7 +67,7 @@ sections:
           For Launch-ready products (Full Suite: MVP + UI/UX + Social)
         features:
           - Everything in BLOOM
-          - Feature two
+          - 30-day social media campaign (3 platforms)
           - Feature three
           - Feature four
           - Feature five
