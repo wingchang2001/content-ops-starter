@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Find the one that suits you and launch now!
+    subtitle: Pick your propulsion package—let’s blast off before lunch.
     plans:
       - title: SPROUT
         price: '$2,500'
