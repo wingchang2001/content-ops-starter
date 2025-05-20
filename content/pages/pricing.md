@@ -9,11 +9,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Find the one that suits you and launch now!
+    subtitle: Pick your propulsion package—let’s blast off before lunch.
     plans:
       - title: SPROUT
         price: '$2,500'
-        details: per project
+        details: 7-10 days
         description: |
           For Idea validation (MVP Only)
         features:
@@ -21,7 +21,7 @@ sections:
           - Basic user testing with 5 target customers
           - 2 rounds of minor revisions
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/pricing_sprout.png
           altText: Pricing plan 1
           type: ImageBlock
         actions: []
@@ -37,7 +37,7 @@ sections:
         type: PricingPlan
       - title: BLOOM
         price: '$6,900'
-        details: per project
+        details: 14-18 days
         description: |
           For Ready-to-test products (MVP + UI/UX)
         features:
@@ -46,7 +46,7 @@ sections:
           - Mobile/desktop responsiveness
           - 1 animated prototype demo (Lottie)
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/pricing_bloom.png
           altText: Pricing plan 2
           type: ImageBlock
         actions: []
@@ -62,7 +62,7 @@ sections:
         type: PricingPlan
       - title: BLAST OFF
         price: '$12,500'
-        details: per project
+        details: 30 days
         description: |
           For Launch-ready products (Full Suite: MVP + UI/UX + Social)
         features:
@@ -71,9 +71,9 @@ sections:
           - 3 viral-worthy videos (TikTok/Reels/Shorts)
           - Hashtag strategy + influencer outreach list
         image:
-          url: /images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
+          url: /images/pricing_blastv2.png
         actions: []
         colors: bg-neutral-fg-dark
         styles:
