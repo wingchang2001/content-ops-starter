@@ -46,7 +46,7 @@ sections:
           - Mobile/desktop responsiveness
           - 1 animated prototype demo (Lottie)
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/pricing_bloom.png
           altText: Pricing plan 2
           type: ImageBlock
         actions: []
