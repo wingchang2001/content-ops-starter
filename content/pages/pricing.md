@@ -15,7 +15,7 @@ sections:
         price: '$2,500'
         details: per project
         description: |
-          For Idea validation
+          For Idea validation (MVP Only)
         features:
           - 1 functional prototype (3D-printed or no-code digital)
           - Basic user testing with 5 target customers
