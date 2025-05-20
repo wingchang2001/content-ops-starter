@@ -18,8 +18,8 @@ sections:
           For Idea validation
         features:
           - 1 functional prototype (3D-printed or no-code digital)
-          - 2 rounds of minor revisions
           - Feature four
+          - 2 rounds of minor revisions
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
