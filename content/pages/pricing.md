@@ -17,7 +17,7 @@ sections:
         description: |
           For Idea validation
         features:
-          - Feature one
+          - 1 functional prototype (3D-printed or no-code digital)
           - Feature two
           - Feature three
           - Feature four
