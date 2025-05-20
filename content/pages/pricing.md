@@ -69,7 +69,7 @@ sections:
           - Everything in BLOOM
           - 30-day social media campaign (3 platforms)
           - 3 viral-worthy videos (TikTok/Reels/Shorts)
-          - Feature four
+          - Hashtag strategy + influencer outreach list
           - Feature five
         image:
           url: /images/abstract-feature3.svg
