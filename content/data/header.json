@@ -15,7 +15,7 @@
         {
             "label": "Pricing",
             "altText": "Pricing Page",
-            "url": "/careers",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
