@@ -25,7 +25,7 @@
             "type": "Link",
             "label": "Case Studies",
             "altText": "",
-            "url": "/CaseStudies",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
