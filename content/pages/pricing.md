@@ -66,7 +66,7 @@ sections:
         description: |
           For Launch-ready products (Full Suite: MVP + UI/UX + Social)
         features:
-          - Feature one
+          - Everything in BLOOM
           - Feature two
           - Feature three
           - Feature four
