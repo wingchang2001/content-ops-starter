@@ -2,7 +2,13 @@
 title: Starting a Financial Company
 slug: five-tips-for-starting-a-startup
 date: '2025-05-24'
-excerpt: ''
+excerpt: >-
+  An entrepreneur's transition from banking to founding Capital Guru. Key
+  challenges included team-building, startup costs, and scaling operations.
+  Lessons learned: financial planning is crucial, flexibility drives growth, and
+  hiring requires careful consideration. His advice: validate ideas thoroughly,
+  learn from others' successes, and prioritize profitability. A practical guide
+  for aspiring business owners.
 featuredImage:
   url: /images/CapitalGuru-logo.png
   altText: Thumbnail
