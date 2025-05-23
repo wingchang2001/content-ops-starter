@@ -18,7 +18,7 @@ sections:
           For Idea validation (MVP Only)
         features:
           - 1 functional prototype
-          - Basic user testing with 5 target customers
+          - Basic user testing with 3 target customers
           - 2 rounds of minor revisions
         image:
           url: /images/pricing_sprout.png
