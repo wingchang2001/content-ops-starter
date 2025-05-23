@@ -28,8 +28,6 @@ styles:
 author: content/data/person6.json
 type: PostLayout
 ---
-**Case Study: The Entrepreneurial Journey – Motivation, Challenges, and Lessons Learned**
-
 This case study delves into the firsthand experiences of an entrepreneur who transitioned from a stable banking career to founding his own financial services business, Capital Guru. Through a candid interview, he shares the realities of building a startup, from assembling a team to overcoming self-doubt and navigating the financial risks of entrepreneurship. His story offers valuable insights for aspiring business owners about what it truly takes to succeed.
 
 The entrepreneur firmly believes that a real business requires more than just one person. *"If you have no team and you're just running the whole show yourself, it's not a business. It's just a job—a one-man show,"* he explains. To attract talent, he relied on a mix of monetary incentives and understanding the push factors that drive employees away from traditional roles. Many of his early hires came from commission-only jobs with no stability, making his offer of a base salary and better support appealing. Beyond money, he emphasizes the importance of workplace culture, noting that sales roles can be highly competitive, and poor management often leads to dissatisfaction. *"Managing expectations is key—both for clients and employees,"* he says.
