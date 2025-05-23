@@ -13,7 +13,7 @@ sections:
     plans:
       - title: SPROUT
         price: '$1,500'
-        details: 7-10 days
+        details: 3-5 days
         description: |
           For Idea validation (MVP Only)
         features:
