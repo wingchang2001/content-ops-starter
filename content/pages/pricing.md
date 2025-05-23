@@ -12,7 +12,7 @@ sections:
     subtitle: Pick your propulsion package—let’s blast off before lunch.
     plans:
       - title: SPROUT
-        price: '$2,500'
+        price: '$1,500'
         details: 7-10 days
         description: |
           For Idea validation (MVP Only)
