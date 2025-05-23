@@ -37,7 +37,7 @@ sections:
         type: PricingPlan
       - title: BLOOM
         price: '$3,000'
-        details: 9-15 days
+        details: 14 days
         description: |
           For Ready-to-test products (MVP + UI/UX)
         features:
