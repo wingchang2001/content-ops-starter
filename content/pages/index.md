@@ -40,7 +40,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Rapid MVP Prototyping
+      text: Rapid Prototyping
       color: text-dark
       styles:
         self:
