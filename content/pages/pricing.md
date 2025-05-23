@@ -17,7 +17,7 @@ sections:
         description: |
           For Idea validation (MVP Only)
         features:
-          - 1 functional prototype (3D-printed or no-code digital)
+          - 1 functional prototype
           - Basic user testing with 5 target customers
           - 2 rounds of minor revisions
         image:
