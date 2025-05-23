@@ -39,7 +39,7 @@ sections:
         price: '$3,000'
         details: 14 days
         description: |
-          For Ready-to-test products (MVP + UI/UX)
+          For Ready-to-test products (MVP +User Experience)
         features:
           - Everything in SPROUT
           - Custom UI/UX design (Figma/Adobe XD)
