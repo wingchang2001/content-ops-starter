@@ -15,7 +15,7 @@ sections:
         price: '$1,500'
         details: 3-5 days
         description: |
-          For Idea validation (MVP Only)
+          For Idea validation (Minimum Viable Product)
         features:
           - 1 functional prototype
           - Basic user testing with 3 target customers
