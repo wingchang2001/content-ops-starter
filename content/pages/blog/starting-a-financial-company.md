@@ -1,6 +1,6 @@
 ---
 title: Starting a Financial Company
-slug: five-tips-for-starting-a-startup
+slug: starting-a-financial-company
 date: '2025-05-24'
 excerpt: >-
   An entrepreneur's transition from banking to founding Capital Guru. Key
