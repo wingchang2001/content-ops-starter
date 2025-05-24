@@ -20,7 +20,7 @@ bottomSections: []
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: 5 Tips for Starting a Startup
+  metaTitle: CapitalGuru Startup
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature1.svg
   type: Seo
