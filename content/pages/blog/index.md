@@ -1,6 +1,6 @@
 ---
-title: cases
-slug: /cases
+title: blog
+slug: /blog
 numOfPostsPerPage: 8
 enableSearch: false
 topSections: []
