@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: cases
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: false
