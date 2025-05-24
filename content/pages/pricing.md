@@ -12,13 +12,13 @@ sections:
     subtitle: Pick your propulsion package—let’s blast off before lunch.
     plans:
       - title: SPROUT
-        price: '$2,500'
-        details: 7-10 days
+        price: '$1,500'
+        details: 3-5 days
         description: |
-          For Idea validation (MVP Only)
+          For Idea validation (Minimum Viable Product)
         features:
-          - 1 functional prototype (3D-printed or no-code digital)
-          - Basic user testing with 5 target customers
+          - 1 functional prototype
+          - Basic user testing with 3 target customers
           - 2 rounds of minor revisions
         image:
           url: /images/pricing_sprout.png
@@ -36,10 +36,10 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: BLOOM
-        price: '$6,900'
-        details: 14-18 days
+        price: '$3,000'
+        details: 14 days
         description: |
-          For Ready-to-test products (MVP + UI/UX)
+          For Ready-to-test products (MVP +User Experience)
         features:
           - Everything in SPROUT
           - Custom UI/UX design (Figma/Adobe XD)
@@ -61,10 +61,10 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: BLAST OFF
-        price: '$12,500'
+        price: '$6,000'
         details: 30 days
         description: |
-          For Launch-ready products (Full Suite: MVP + UI/UX + Social)
+          For Launch-ready products (Full Suite: MVP + UI/UX + Social Media)
         features:
           - Everything in BLOOM
           - 30-day social media campaign (3 platforms)
