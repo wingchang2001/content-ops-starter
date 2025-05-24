@@ -64,7 +64,7 @@ sections:
         price: '$6,000'
         details: 30 days
         description: |
-          For Launch-ready products (Full Suite: MVP + UI/UX + Social)
+          For Launch-ready products (Full Suite: MVP + UI/UX + Social Media)
         features:
           - Everything in BLOOM
           - 30-day social media campaign (3 platforms)
