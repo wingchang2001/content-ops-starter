@@ -118,7 +118,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/socialmedia.png
+      url: /images/home-social.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
