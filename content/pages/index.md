@@ -139,7 +139,7 @@ sections:
       text: Let's Launch Something Great Together
       color: text-dark
       type: TitleBlock
-    subtitle: Got questions? Ideas? Napkin sketches? We’re all ears (and bananas).
+    subtitle: Got questions? Ideas? Napkin sketches? We’re all ears (and bananas)
     text: >+
       Whether you're dreaming up the next big thing or need help bringing it to
       life, our team’s ready to jump in. Drop us a message and we’ll get back
