@@ -99,7 +99,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/meh.png
+      url: /images/home-UIUX.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
