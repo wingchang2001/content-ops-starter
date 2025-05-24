@@ -40,7 +40,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Rapid MVP Prototyping
+      text: Rapid Prototyping
       color: text-dark
       styles:
         self:
@@ -99,7 +99,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/meh.png
+      url: /images/home-UIUX.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
@@ -118,7 +118,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/socialmedia.png
+      url: /images/home-social.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
