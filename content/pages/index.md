@@ -172,9 +172,9 @@ sections:
           width: full
           type: TextareaFormControl
       elementId: contact-form
-      dataNetlify: true  # This adds data-netlify="true"
-      name: contact-form  # Required for Netlify to track submissions
-      action: /success    # Optional success page redirect
+      dataNetlify: true
+      name: contact-form
+      action: /success
       styles:
         self:
           padding:
@@ -189,7 +189,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Submit2
         showIcon: false
         icon: arrowRight
         iconPosition: right
