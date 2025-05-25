@@ -189,7 +189,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit2
+        label: Submit
         showIcon: false
         icon: arrowRight
         iconPosition: right
