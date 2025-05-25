@@ -28,7 +28,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
-author: content/data/person6.json
 type: PostLayout
 ---
 This case study delves into the firsthand experiences of an entrepreneur who transitioned from a stable banking career to founding his own financial services business, Capital Guru. Through a candid interview, he shares the realities of building a startup, from assembling a team to overcoming self-doubt and navigating the financial risks of entrepreneurship. His story offers valuable insights for aspiring business owners about what it truly takes to succeed.
