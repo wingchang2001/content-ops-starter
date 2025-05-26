@@ -191,7 +191,7 @@ sections:
         type: SubmitButtonFormControl
         label: Submit
         showIcon: false
-        icon: arrowRight
+        icon: arrowLeft
         iconPosition: right
         style: primary
         elementId: null
