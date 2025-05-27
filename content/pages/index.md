@@ -187,14 +187,6 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     badge:
       label: Contact Us
       color: text-primary
