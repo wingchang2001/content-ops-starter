@@ -19,24 +19,6 @@ export default function FormBlock(props) {
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries());
         alert(`Form data: ${JSON.stringify(value)}`);
-
-    // 2. Netlify Form Submission
-    try {
-      const response = await fetch('/', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams(data).toString(),
-      });
-
-      if (response.ok) {
-        window.location.href = '/thank-you'; // Redirect on success
-      } else {
-        alert('Form submission failed');
-      }
-    } catch (error) {
-      alert('Network error - please try again');
-    }
-        
         
     }
 
