@@ -194,7 +194,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
     badge:
       label: Contact Us
       color: text-primary
