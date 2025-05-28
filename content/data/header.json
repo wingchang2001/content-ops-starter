@@ -36,7 +36,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Contact Us",
             "altText": "",
             "url": "mailto:Launch@BananaRocketLab.com",
             "showIcon": false,
