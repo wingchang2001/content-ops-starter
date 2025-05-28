@@ -16,8 +16,9 @@ export default function FormBlock(props) {
 async function handleSubmit(event) {
   event.preventDefault();
 
-  const form = event.target;
+  const form = formRef.current;
   const data = new FormData(form);
+  const value = Object.fromEntries(data.entries()); // Optional: useful for debugging
   const formName = form.getAttribute('name');
   data.set('form-name', formName);
 
@@ -29,18 +30,16 @@ async function handleSubmit(event) {
     });
 
     if (response.ok) {
-      // You can handle success here:
-      // window.location.href = '/success';
-      // props.closeModal();
-      // props.toast("Thanks for the message, we will be in contact soon!");
-      console.log("Form submitted successfully.");
+      alert('Form submitted successfully!');
     } else {
-      alert('Form submission failed');
+      alert('Form submission failed.');
     }
   } catch (error) {
-    console.error('Error submitting form:', error);
+    console.error('Submission error:', error);
+    alert('An error occurred.');
   }
 }
+
 
     return (
         <form
