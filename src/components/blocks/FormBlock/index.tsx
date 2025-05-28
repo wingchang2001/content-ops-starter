@@ -13,32 +13,13 @@ export default function FormBlock(props) {
         return null;
     }
 
-async function handleSubmit(event) {
-  event.preventDefault();
+    function handleSubmit(event) {
+        event.preventDefault();
 
-  const form = formRef.current;
-  const data = new FormData(form);
-  const value = Object.fromEntries(data.entries()); // Optional: useful for debugging
-  const formName = form.getAttribute('name');
-  data.set('form-name', formName);
-
-  try {
-    const response = await fetch('/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: new URLSearchParams(data).toString()
-    });
-
-    if (response.ok) {
-      alert('Form submitted successfully!');
-    } else {
-      alert('Form submission failed.');
+        const data = new FormData(formRef.current);
+        const value = Object.fromEntries(data.entries());
+        alert(`Form data: ${JSON.stringify(value)}`);
     }
-  } catch (error) {
-    console.error('Submission error:', error);
-    alert('An error occurred.');
-  }
-}
 
 
     return (
