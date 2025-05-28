@@ -13,36 +13,34 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
-        event.preventDefault();
+async function handleSubmit(event) {
+  event.preventDefault();
 
-            const form = event.target;
-    const data = new FormData(form);
-    const formName = form.getAttribute('name');
-    data.set('form-name', formName);
+  const form = event.target;
+  const data = new FormData(form);
+  const formName = form.getAttribute('name');
+  data.set('form-name', formName);
 
-    try {
-      const response = await fetch('/', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams(data).toString()
-      });
+  try {
+    const response = await fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams(data).toString()
+    });
 
-      if (response.ok) {
-        // window.location.href = '/success';
-        // props.closeModal();
-        // props.toast("Thanks for the message, we will be in contact soon!");
-      } else {
-        alert('Form submission failed');
-      }
-    } catch (error) {
-      console.error('Error submitting form:', error);
+    if (response.ok) {
+      // You can handle success here:
+      // window.location.href = '/success';
+      // props.closeModal();
+      // props.toast("Thanks for the message, we will be in contact soon!");
+      console.log("Form submitted successfully.");
+    } else {
+      alert('Form submission failed');
     }
-        
-        // const data = new FormData(formRef.current);
-        // const value = Object.fromEntries(data.entries());
-        // alert(`Form data: ${JSON.stringify(value)}`);
-    }
+  } catch (error) {
+    console.error('Error submitting form:', error);
+  }
+}
 
     return (
         <form
