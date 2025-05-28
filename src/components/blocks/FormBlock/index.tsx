@@ -15,25 +15,9 @@ export default function FormBlock(props) {
 
     function handleSubmit(event): void {
         event.preventDefault();
-
-        // const data = new FormData(formRef.current);
-        // const value = Object.fromEntries(data.entries());
-        // alert(`Form data: ${JSON.stringify(value)}`);
-
-        const form = event.target
-        fetch('/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            body: encode({
-                'form-name': form.getAttribute('name'),
-                ...state,
-            }),
-        })
-            .then(() => console.log("Success!"))
-            .catch(error => console.log(error));
-
-        event.preventDefault();
-        setSubmitted(true);
+        const data = new FormData(formRef.current);
+        const value = Object.fromEntries(data.entries());
+        alert(`Form data: ${JSON.stringify(value)}`);
     }
 
     return (
