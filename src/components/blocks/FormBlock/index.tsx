@@ -13,8 +13,9 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event): void {
+    function handleSubmit(event) {
         event.preventDefault();
+
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries());
         alert(`Form data: ${JSON.stringify(value)}`);
