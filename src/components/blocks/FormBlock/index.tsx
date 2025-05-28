@@ -13,19 +13,27 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
+    function handleSubmit(event): void {
         event.preventDefault();
-fetch('/', {
-  method: 'POST',
-  headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-  body: encode({
-    'form-name': 'contact', // must match the form's name
-    ...state,
-  }),        
+
         // const data = new FormData(formRef.current);
         // const value = Object.fromEntries(data.entries());
         // alert(`Form data: ${JSON.stringify(value)}`);
-        
+
+        const form = event.target
+        fetch('/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: encode({
+                'form-name': form.getAttribute('name'),
+                ...state,
+            }),
+        })
+            .then(() => console.log("Success!"))
+            .catch(error => console.log(error));
+
+        event.preventDefault();
+        setSubmitted(true);
     }
 
     return (
