@@ -13,13 +13,31 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
-        event.preventDefault();
+  const handleSubmit = async (event) => {
+    event.preventDefault();
 
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+    const form = formRef.current;
+    const data = new FormData(form);
+    data.set('form-name', form.getAttribute('name'));
+
+    try {
+      const response = await fetch('/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(data).toString(),
+      });
+
+      if (response.ok) {
+        alert('Thanks for your submission!');
+        form.reset();
+      } else {
+        alert('Form submission failed.');
+      }
+    } catch (error) {
+      console.error('Submission error:', error);
     }
+  };
+
 
 
     return (
