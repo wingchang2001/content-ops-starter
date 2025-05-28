@@ -19,7 +19,7 @@ fetch('/', {
   method: 'POST',
   headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
   body: encode({
-    'form-name': 'contact-name', // must match the form's name
+    'form-name': 'contact-form', // must match the form's name
     ...state,
   }),
 });
