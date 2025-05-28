@@ -3,10 +3,11 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "",
+    "text": "Contact us at Launch\\@BananaRocketLab.com\n",
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "Contact Us at **Launch\\@BananaRocketLab.com**\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": ""
 }
