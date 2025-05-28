@@ -157,7 +157,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Launch It!
         altText: ''
         url: 'mailto:Launch@BananaRocketLab.com?subject=Hello&body=Your message here'
         showIcon: false
