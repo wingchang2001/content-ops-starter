@@ -12,16 +12,7 @@ sections:
       innovation lab. We make building bold ideas fast, fun, and wildly
       effective.
     text: ''
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: 'mailto:Launch@BananaRocketLab.com'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       url: /images/paper to rocket_white.png
       altText: Unblock your team boost your time to production preview
