@@ -155,6 +155,16 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'mailto:Launch@BananaRocketLab.com?subject=Hello&body=Your message here'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 seo:
   metaTitle: 'BananaRocketLab – MVP Prototypes, UX, & Viral Marketing in One Place'
   metaDescription: >-
