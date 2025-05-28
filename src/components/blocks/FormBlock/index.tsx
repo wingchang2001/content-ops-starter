@@ -15,10 +15,29 @@ export default function FormBlock(props) {
 
     function handleSubmit(event) {
         event.preventDefault();
-
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        try {
+            setStatus('pending');
+            setError(null);
+            const myForm = event.target;
+            const formData = new FormData(myForm);
+            const res = await fetch('/__forms.html', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams(formData).toString()
+            });
+            if (res.status === 200) {
+                setStatus('ok');
+            } else {
+                setStatus('error');
+                setError(`${res.status} ${res.statusText}`);
+            }
+        } catch (e) {
+            setStatus('error');
+            setError(`${e}`);
+        }
+        // const data = new FormData(formRef.current);
+        // const value = Object.fromEntries(data.entries());
+        // alert(`Form data: ${JSON.stringify(value)}`);
         
     }
 
