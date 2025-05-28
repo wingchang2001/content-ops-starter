@@ -15,10 +15,17 @@ export default function FormBlock(props) {
 
     function handleSubmit(event) {
         event.preventDefault();
-
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+fetch('/', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+  body: encode({
+    'form-name': 'contact-name', // must match the form's name
+    ...state,
+  }),
+});
+        // const data = new FormData(formRef.current);
+        // const value = Object.fromEntries(data.entries());
+        // alert(`Form data: ${JSON.stringify(value)}`);
     }
 
     return (
