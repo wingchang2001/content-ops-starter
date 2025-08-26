@@ -53,7 +53,7 @@ sections:
       doesn't) before you go all in.
     media:
       title: Title of the video
-      url: 'https://youtu.be/2VqtHU5CErA'
+      url: 'https://youtu.be/bdNmnhEhjMY'
       controls: false
       aspectRatio: '16:9'
       styles:
